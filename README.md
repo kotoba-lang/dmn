@@ -1,5 +1,7 @@
 # dmn-clj (決定表)
 
+[![CI](https://github.com/kotoba-lang/dmn/actions/workflows/ci.yml/badge.svg)](https://github.com/kotoba-lang/dmn/actions/workflows/ci.yml)
+
 Handle **DMN 1.4 decision tables and DRGs as EDN/Clojure data** in portable Clojure
 — every namespace is `.cljc`, with **zero third-party runtime deps**, so it runs on
 the JVM, ClojureScript, and Clojure-on-WASM hosts (SCI). A decision requirements
